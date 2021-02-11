@@ -1,0 +1,9 @@
+6
+4
+C|x x x|x 7
+    -   -  
+x|x|x|x x x
+        - -
+x x|x x x x
+-   - - -  
+9 x x x x 2

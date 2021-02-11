@@ -1,0 +1,13 @@
+6
+6
+1 x|x x|x 4
+           
+x|x x|x x|x
+    - - -  
+x|x|x x x x
+      -   -
+x|x|x|B|x x
+           
+x|x x|x x|x
+  -   - -  
+6 x x x x B

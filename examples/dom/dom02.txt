@@ -1,0 +1,9 @@
+6
+4
+1|x x|C x|C
+      -    
+x 1|x x|x x
+  - - - -  
+x|x x|x x x
+          -
+x x|x x|x x
